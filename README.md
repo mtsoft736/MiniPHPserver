@@ -191,6 +191,3 @@ Or use the included `build.bat` which also copies the required runtime DLLs next
 
 ---
 
-## License
-
-Do whatever you want with it.
